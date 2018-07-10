@@ -1,0 +1,38 @@
+{
+  "name": "Fancybloggertricks.com",
+  "short_name": "Fancybloggertricks",
+  "start_url": "https://www.fancybloggertricks.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "We provide guides on blogger tricks, SEO, WordPress themes and plugins, blogger widgets and high quality blogger templates and scripts for free.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-_bEaDO7OJe8/W0U7kQTJUMI/AAAAAAAAExE/HsYfUL6nXwQF7a9Dqgffb339yRSF9ZHgQCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-RfZwk_ueyRc/W0U7n3HSZSI/AAAAAAAAExM/mtcw18UqfNsjXX3ZT_sD_F9Uuc_j43sfwCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rbHwnKcpQP8/W0U7pG06IeI/AAAAAAAAExQ/Kw4HflAv17o996kZ1wJTWsl5MY8-C4sfQCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-t8AGjvyhYZo/W0U7jJo-4FI/AAAAAAAAExA/IfWJvuE2Qw4yORnxDB0vPtv2f-c__s3HQCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lgk52EdU2kY/W0U7iD6DkOI/AAAAAAAAEw8/QyxEN-5GRv4_OoIt2QI0g_cC1anW4N9LgCLcBGAs/s1600/android-icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ToQn02KdTWk/W0U7g-TBePI/AAAAAAAAEw4/9dbji-tAsUwPONj_sK2k6qOETI5MqFK9ACLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DLakBexwqLg/W0U7mxTpkEI/AAAAAAAAExI/Ej96lUmB2ekUheJqy7q_E9RuqLsM6b4gQCLcBGAs/s1600/android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
